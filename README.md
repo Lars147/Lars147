@@ -13,5 +13,4 @@ Trying to automate A LOT.
 | [apo-cli](https://github.com/Lars147/apo-cli) | 💊 Pharmacy shopping from the terminal |
 
 
-_Hint_
-If you need a cli for your Agent and the service offers MCP, just use [mcporter](https://github.com/steipete/mcporter)
+_If you need a cli for your Agent and the service offers MCP, just use [mcporter](https://github.com/steipete/mcporter)_
