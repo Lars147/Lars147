@@ -11,3 +11,7 @@ Trying to automate A LOT.
 | [knuspr-cli](https://github.com/Lars147/knuspr-cli) | 🛒 Knuspr.de grocery shopping from the terminal |
 | [tmx-cli](https://github.com/Lars147/tmx-cli) | 🍳 Cookidoo/Thermomix meal planning & recipes CLI |
 | [apo-cli](https://github.com/Lars147/apo-cli) | 💊 Pharmacy shopping from the terminal |
+
+
+_Hint_
+If you need a cli for your Agent and the service offers MCP, just use [mcporter](https://github.com/steipete/mcporter)
