@@ -1,16 +1,13 @@
-## Hi there 👋
+Big AI enthusiast.
 
-<!--
-**Lars147/Lars147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trying to automate A LOT.
 
-Here are some ideas to get you started:
+*Currently, I am experimenting with [openclaw](https://github.com/openclaw/openclaw) and make repos for AIs and Agents 🤖*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+| Repo | What it does |
+|------|-------------|
+| [knuspr-cli](https://github.com/Lars147/knuspr-cli) | 🛒 Knuspr.de grocery shopping from the terminal |
+| [tmx-cli](https://github.com/Lars147/tmx-cli) | 🍳 Cookidoo/Thermomix meal planning & recipes CLI |
+| [apo-cli](https://github.com/Lars147/apo-cli) | 💊 Pharmacy shopping from the terminal |
