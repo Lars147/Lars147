@@ -2,7 +2,7 @@ Big AI enthusiast.
 
 Trying to automate A LOT.
 
-*Currently, I am experimenting with [openclaw](https://github.com/openclaw/openclaw) and make repos for AIs and Agents 🤖*
+*Currently, I am experimenting creating a iOS App trip planer for folding bikes 🚲*
 
 ### Projects
 
