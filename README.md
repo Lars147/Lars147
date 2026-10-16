@@ -2,9 +2,9 @@ Big AI enthusiast.
 
 Trying to automate A LOT.
 
-*Currently, I am experimenting creating a iOS App trip planer for folding bikes 🚲*
+*Currently, I am experimenting creating a iOS App trip planer for folding bikes [foldroute](https://github.com/Lars147/foldroute)  🚲*
 
-### Projects
+### Other Projects
 
 | Repo | What it does |
 |------|-------------|
